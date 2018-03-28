@@ -1,5 +1,7 @@
 # Exercise 1: Add idl-md components
 
+Commit
+
 ^[Click here to review the lab objectives.][introduction]
 
 > [introduction]:
