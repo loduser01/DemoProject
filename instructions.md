@@ -1,7 +1,5 @@
 # Exercise 1: Add idl-md components
 
-Updating Lab Instructions
-
 ^[Click here to review the lab objectives.][introduction]
 
 > [introduction]:
