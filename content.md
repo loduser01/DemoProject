@@ -1,6 +1,6 @@
 # Exercise 1: Add idl-md components
 
-^[Click here to review the lab objectives.][introduction]
+^[Click here to review the lab objectives.][introduction] 
 
 > [introduction]:
 > ### Estimated Time to Complete this Exercise
